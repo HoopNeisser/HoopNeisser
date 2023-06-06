@@ -1,5 +1,5 @@
 # Hola, soy Agustin Astudillo! 👋
-## Systems Engineering Student | Frontend Developer
+# Systems Engineering Student | Frontend Developer
 
 # 🚀 About Me
 🙋‍♂️ ¡Buenas! Soy Agustin Ezequiel Astudillo.
@@ -13,7 +13,7 @@
 👨‍💻 Me apasiona la tecnología y el aprendizaje constante. Mi objetivo es encontrar nuevos caminos que me permitan continuar aprendiendo y creciendo en mi carrera.
 
 
-## 🛠 Skills
+# 🛠 Skills
 HTML
 CSS
 JavaScript
@@ -22,7 +22,7 @@ Angular
 Git
 
 
-## Roadmap
+# Roadmap
 
 - Fundamentos de la programación (Telefónica)
 
@@ -37,7 +37,7 @@ Git
 - Framework Angular (Argentina Programa 4.0)
 
 
-## 🔗 Contacto
+# 🔗 Contacto
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hoopneisser.github.io/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-ezequiel-astudillo/)
