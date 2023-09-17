@@ -33,10 +33,10 @@ Git
 - Paradigmas de la programación (UTN)
 - Framework Bootstrap (FreeCodeCamp)
 - Framework Angular (Argentina Programa 4.0)
-- Library Reactjs (Argency)
-- TypeScript (Argency)
-- Framework NextJS (Argency)
-- Tailwind CSS with NextJS (Argency)
+- Library Reactjs (The Garage)
+- TypeScript (The Garage)
+- Framework NextJS (The Garage)
+- Tailwind CSS with NextJS (The Garage)
 
 # 🔗 Contact
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hoopneisser.github.io/)
